@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BotIsh
 
 **BotIsh** is a WiFi-controlled robot with real-time commands sent from an Android application using UDP communication. The robot is controlled by an ESP32 microcontroller, and its movement commands are sent from an Android app. The project utilizes the WiFi capabilities of the ESP32 to set up a soft access point for communication.
