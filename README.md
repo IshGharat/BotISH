@@ -63,10 +63,10 @@ Connect the ESP32 to the motor driver (L298N) as follows:
 ## Images
 
 ### BotIsh Robot
-![Bot Image](./images/bot_image.png)
+![Bot Image](./images/bot_image.jpg)
 
 ### BotIsh Android App Screenshot
-![App Screenshot](./images/app_screenshot.png)
+![App Screenshot](./images/app_screenshot.jpg)
 
 ### [CAD File](https://cad.grabcad.com/library/cube-rover-by-astrobotic-1)
 
@@ -74,10 +74,3 @@ Connect the ESP32 to the motor driver (L298N) as follows:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-
-
-=======
-# BotISH
-An ESP32-based 4-wheeled robot controlled by an Android app via Wi-Fi.
->>>>>>> 8cb1b8efded9f335a8c91036fe48f4208e0882c5
